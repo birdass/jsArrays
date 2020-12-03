@@ -1,0 +1,12 @@
+.container {
+    width: 75%;
+    margin: 2rem auto;
+    height: 65vh;
+    text-align: center;
+}
+
+img { /* настройка картинки */
+    height: 100%;
+    display: block;
+    margin: 2rem auto;
+}
